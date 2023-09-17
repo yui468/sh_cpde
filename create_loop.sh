@@ -22,4 +22,4 @@ for ((i=0; i<=num_files; i++)); do
   echo "Created: $filename"
 done
 
-echo "JSON files created in the current directory"
+echo "files created in the current directory"
